@@ -1,0 +1,27 @@
+{
+  "name": "nodeamino",
+  "version": "1.4.1",
+  "description": "Library for easy access to Amino API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "amino",
+    "node",
+    "api"
+  ],
+  "author": "IlyaDreamix",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "crypto-js": "^4.1.1",
+    "http-proxy-agent": "^5.0.0",
+    "node-fetch": "^3.2.6",
+    "sockjs": "^0.3.24",
+    "url-safe-base64": "^1.2.0",
+    "urlsafe-base64": "^1.0.0",
+    "ws": "^8.8.0"
+  }
+}
