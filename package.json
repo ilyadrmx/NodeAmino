@@ -1,6 +1,6 @@
 {
   "name": "nodeamino",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Library for easy access to Amino API",
   "main": "index.js",
   "scripts": {
